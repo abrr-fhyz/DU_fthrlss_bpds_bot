@@ -2,7 +2,7 @@
 A simple personalised bot created using Vue.js that can perform the functions of chatGPT, and can be connected to another server if the need arises.
 The bot was developed during the 2024 SUST Hackathon and was used in tandem with another server. The connection between that server and this server have been left within the code but have been commented out.
 
-* Dependencies *
+*** Dependencies ***
 Please install node, vue and openai beforehand.
 The server operates on port 8000, and the frontend will operate on port 5137. Make sure the ports are clear before running.
 
